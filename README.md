@@ -1,0 +1,2 @@
+# expensemanager
+using MERN stack
